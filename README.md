@@ -2,7 +2,7 @@
 In this project, I will be building a Thermoresponsive cup holder that will be able to detect the correct temperature of the liquid inside the cup and provide the users with a visual output signifying if the liquid is too hot, too cold or is of the right drinkable temperature. 
 ## Components required
 # Arduino board
-![arduino uno](https://user-images.githubusercontent.com/36547662/86252274-4a669b80-bbb3-11ea-81da-6a2a19244d5c.png)
+![arduino uno](https://user-images.githubusercontent.com/36547662/86252274-4a669b80-bbb3-11ea-81da-6a2a19244d5c.png | width = 100 )
 # Breadboard
 ![breadboard](https://user-images.githubusercontent.com/36547662/86253474-e349e680-bbb4-11ea-8a69-446dd88548d5.jpg)
 # 9 Jumper wires

@@ -24,7 +24,7 @@ In this project, I will be building a Thermoresponsive cup holder that will be a
 
 # Conductive Fabric
 <img src = "https://user-images.githubusercontent.com/36547662/86253987-869afb80-bbb5-11ea-988f-ac9ebe475733.jpg" width="250" height="200">
-
+## Conductive Thread
 <img src = "https://user-images.githubusercontent.com/36547662/86254090-a6caba80-bbb5-11ea-8694-f8386512b137.jpg" width="250" height="200">
 
 

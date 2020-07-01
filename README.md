@@ -8,7 +8,7 @@ In this project, I will be building a Thermoresponsive cup holder that will be a
 # 9 Jumper wires
 ![wiresj](https://user-images.githubusercontent.com/36547662/86253570-02e10f00-bbb5-11ea-8c1e-25d0af3f5c21.jpg)
 # 3 220Ω resistors
-![wiresj](https://user-images.githubusercontent.com/36547662/86253717-32901700-bbb5-11ea-8e39-fe77a882076b.jpg)
+![resistors](https://user-images.githubusercontent.com/36547662/86254651-66b80780-bbb6-11ea-82e4-09840b91c713.png)
 
 # 3 LEDs
 ![ledsss](https://user-images.githubusercontent.com/36547662/86252435-80a41b00-bbb3-11ea-87a6-e32779b4c735.jpg)

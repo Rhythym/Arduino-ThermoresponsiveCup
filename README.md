@@ -2,26 +2,31 @@
 In this project, I will be building a Thermoresponsive cup holder that will be able to detect the correct temperature of the liquid inside the cup and provide the users with a visual output signifying if the liquid is too hot, too cold or is of the right drinkable temperature. 
 ## Components required
 # Arduino board
-<img src = "https://user-images.githubusercontent.com/36547662/86252274-4a669b80-bbb3-11ea-81da-6a2a19244d5c.png" width="100" height="100">
-![arduino uno](https://user-images.githubusercontent.com/36547662/86252274-4a669b80-bbb3-11ea-81da-6a2a19244d5c.png ){:height="700px" width="400px"}
+<img src = "https://user-images.githubusercontent.com/36547662/86252274-4a669b80-bbb3-11ea-81da-6a2a19244d5c.png" width="250" height="200">
+
 # Breadboard
-![breadboard](https://user-images.githubusercontent.com/36547662/86253474-e349e680-bbb4-11ea-8a69-446dd88548d5.jpg)
+<img src = "https://user-images.githubusercontent.com/36547662/86253474-e349e680-bbb4-11ea-8a69-446dd88548d5.jpg" width="250" height="200">
+
 # 9 Jumper wires
-![wiresj](https://user-images.githubusercontent.com/36547662/86253570-02e10f00-bbb5-11ea-8c1e-25d0af3f5c21.jpg)
+<img src = "https://user-images.githubusercontent.com/36547662/86253570-02e10f00-bbb5-11ea-8c1e-25d0af3f5c21.jpg" width="250" height="200">
+
 # 3 220Ω resistors
-![resistors](https://user-images.githubusercontent.com/36547662/86254651-66b80780-bbb6-11ea-82e4-09840b91c713.png)
+<img src = "https://user-images.githubusercontent.com/36547662/86254651-66b80780-bbb6-11ea-82e4-09840b91c713.png" width="250" height="200">
 
 # 3 LEDs
-![ledsss](https://user-images.githubusercontent.com/36547662/86252435-80a41b00-bbb3-11ea-87a6-e32779b4c735.jpg)
+<img src = "https://user-images.githubusercontent.com/36547662/86252435-80a41b00-bbb3-11ea-87a6-e32779b4c735.jpg" width="250" height="200">
 
 # Temperature sensor
-![temp sensor](https://user-images.githubusercontent.com/36547662/86252057-ff4c8880-bbb2-11ea-98c1-2c21cd8046cc.jpg)
+<img src = "https://user-images.githubusercontent.com/36547662/86252057-ff4c8880-bbb2-11ea-98c1-2c21cd8046cc.jpg" width="250" height="200">
 
-![tmp36](https://user-images.githubusercontent.com/36547662/86252626-bf39d580-bbb3-11ea-97bd-f4de3cec6cb9.jpg)
+<img src = "https://user-images.githubusercontent.com/36547662/86252626-bf39d580-bbb3-11ea-97bd-f4de3cec6cb9.jpg" width="250" height="200">
+
 
 # Conductive Fabric
-![conductive fabric](https://user-images.githubusercontent.com/36547662/86253987-869afb80-bbb5-11ea-988f-ac9ebe475733.jpg)
-![conductive thread](https://user-images.githubusercontent.com/36547662/86254090-a6caba80-bbb5-11ea-8694-f8386512b137.jpg)
+<img src = "https://user-images.githubusercontent.com/36547662/86253987-869afb80-bbb5-11ea-988f-ac9ebe475733.jpg" width="250" height="200">
+
+<img src = "https://user-images.githubusercontent.com/36547662/86254090-a6caba80-bbb5-11ea-8694-f8386512b137.jpg" width="250" height="200">
+
 
 
 ## Project Description 

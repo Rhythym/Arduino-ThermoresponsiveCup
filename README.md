@@ -16,15 +16,17 @@ In this project, I will be building a Thermoresponsive cup holder that will be a
 # 3 LEDs
 <img src = "https://user-images.githubusercontent.com/36547662/86252435-80a41b00-bbb3-11ea-87a6-e32779b4c735.jpg" width="250" height="200">
 
-# Temperature sensor
+# Temperature sensor DS18B20 ( This is the one that I used in the project)
 <img src = "https://user-images.githubusercontent.com/36547662/86252057-ff4c8880-bbb2-11ea-98c1-2c21cd8046cc.jpg" width="250" height="200">
 
+# Temperature Sensor TMP36 (This can be used as an alternative )
 <img src = "https://user-images.githubusercontent.com/36547662/86252626-bf39d580-bbb3-11ea-97bd-f4de3cec6cb9.jpg" width="250" height="200">
 
 
 # Conductive Fabric
 <img src = "https://user-images.githubusercontent.com/36547662/86253987-869afb80-bbb5-11ea-988f-ac9ebe475733.jpg" width="250" height="200">
-## Conductive Thread
+
+# Conductive Thread
 <img src = "https://user-images.githubusercontent.com/36547662/86254090-a6caba80-bbb5-11ea-8694-f8386512b137.jpg" width="250" height="200">
 
 

@@ -35,10 +35,10 @@ In this project, I will be building a Thermoresponsive cup holder that will be a
 
 Before running the code make sure that you have the below mentioned libraries installed 
 
-#### [OneWire library]( https://www.arduinolibraries.info/libraries/one-wire) 
+#### [OneWire library]( https://www.arduinolibraries.info/libraries/one-wire) - Arduino Library
 
 
-#### [DallasTemperature library](https://www.arduinolibraries.info/libraries/dallas-temperature)
+#### [DallasTemperature library](https://www.arduinolibraries.info/libraries/dallas-temperature) - Arduino Library
 
 
 

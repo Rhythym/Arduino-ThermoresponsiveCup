@@ -31,6 +31,14 @@ In this project, I will be building a Thermoresponsive cup holder that will be a
 ### Conductive Thread
 <img src = "https://user-images.githubusercontent.com/36547662/86254090-a6caba80-bbb5-11ea-8694-f8386512b137.jpg" width="250" height="200">
 
+# Project Description 
+ E-textile Thermoresponsive cup holder is a smart E-Textile cup that comprises of a few Led’s, and a temperature sensor. The main idea is to be able to detect the temperature of the water in the cup and give Optical feedback to the users. It provides visual feedback by lighting up the Led’s depending on the temperature of the water inside the cup. For instance, If the temperature of the water inside the cup is above 50 degrees Celsius, the “RED” led would light up  displaying that the temperature of the liquid inside the cup is above the normal drinkable temperature. On the other hand, if the temperature of the water lowers down between 15 degrees to 4 degree Celsius, then the “BLUE” led would glow depicting that the temperature of the water is too cold and If the temperature of the water is between the two limits, then the “GREEN” led would glow which would signify that the liquid has reached the right drinkable temperature. This idea targets all those people who generally burn themselves while accidentally drinking something very hot, primarily keeping the children and the elderly in mind, who aren’t aware if it is safe to drink something this cold or hot. Therefore, coming up with something like this would visually provide feedback to its user without having to sip the water to know its temperature.
+ 
+ # Schematic 
+ 
+ <img src = "https://user-images.githubusercontent.com/36547662/86257705-383c2b80-bbba-11ea-8aa5-8ac0e05a3818.png" width = "660" height= "470">
+
+
 # Prerequisites
 
 Before running the code make sure that you have the below mentioned libraries installed 
@@ -41,12 +49,23 @@ Before running the code make sure that you have the below mentioned libraries in
 #### [DallasTemperature library](https://www.arduinolibraries.info/libraries/dallas-temperature) - Arduino Library
 
 
+# Getting Started 
 
+To run this project on your local machine 
+##### Download the source code 
+You will be able to do that by clicking the green button on the upper left corner
+##### Have Arduino IDE installed
+To run the code you just downloaded you will need to download and install the arduino ide .
+you may use the link below to download it.
 
-# Project Description 
- E-textile Thermoresponsive cup holder is a smart E-Textile cup that comprises of a few Led’s, and a temperature sensor. The main idea is to be able to detect the temperature of the water in the cup and give Optical feedback to the users. It provides visual feedback by lighting up the Led’s depending on the temperature of the water inside the cup. For instance, If the temperature of the water inside the cup is above 50 degrees Celsius, the “RED” led would light up  displaying that the temperature of the liquid inside the cup is above the normal drinkable temperature. On the other hand, if the temperature of the water lowers down between 15 degrees to 4 degree Celsius, then the “BLUE” led would glow depicting that the temperature of the water is too cold and If the temperature of the water is between the two limits, then the “GREEN” led would glow which would signify that the liquid has reached the right drinkable temperature. This idea targets all those people who generally burn themselves while accidentally drinking something very hot, primarily keeping the children and the elderly in mind, who aren’t aware if it is safe to drink something this cold or hot. Therefore, coming up with something like this would visually provide feedback to its user without having to sip the water to know its temperature.
- 
- # Schematic 
- 
- <img src = "https://user-images.githubusercontent.com/36547662/86257705-383c2b80-bbba-11ea-8aa5-8ac0e05a3818.png" width = "660" height= "470">
+[Arduino ide for windows ](https://www.arduino.cc/en/Main/Donate)
 
+[Arduino ide for Mac OS](https://www.arduino.cc/en/Main/Donate)
+
+[Arduino ide for linux](https://www.arduino.cc/en/Main/Donate)
+
+##### Open the the downloaded file with the ide
+Once you have downloaded and installed the ide ,you could just open the downloaded code using the ide.
+
+##### Make sure to install the libraries mention above 
+Install OneWire and DallasTemperature library to get the code running 

@@ -55,17 +55,17 @@ To run this project on your local machine
 ##### Download the source code 
 You will be able to do that by clicking the green button on the upper left corner
 ##### Have Arduino IDE installed
-To run the code you just downloaded you will need to download and install the arduino ide .
-you may use the link below to download it.
+To run the code that you just downloaded ,You will need to download and install the arduino IDE .
+You may use the link below to download it.
 
-[Arduino ide for windows ](https://www.arduino.cc/en/Main/Donate)
+[Arduino IDE for windows ](https://www.arduino.cc/en/Main/Donate)
 
-[Arduino ide for Mac OS](https://www.arduino.cc/en/Main/Donate)
+[Arduino IDE for Mac OS](https://www.arduino.cc/en/Main/Donate)
 
-[Arduino ide for linux](https://www.arduino.cc/en/Main/Donate)
+[Arduino IDE for linux](https://www.arduino.cc/en/Main/Donate)
 
-##### Open the the downloaded file with the ide
-Once you have downloaded and installed the ide ,you could just open the downloaded code using the ide.
+##### Open the the downloaded file with the IDE
+Once you have downloaded and installed the IDE ,You can open the downloaded code using it.
 
 ##### Make sure to install the libraries mention above 
 Install OneWire and DallasTemperature library to get the code running 

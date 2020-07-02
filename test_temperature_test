@@ -7,8 +7,8 @@ OneWire oneWire(ONE_WIRE_BUS);
 DallasTemperature sensors(&oneWire);
 
 
-const int hot = 40; //Pamaeter set for hot temperature
-const int cold = 20; //parameter set foe cold temperature
+const int hotparameter = 40; //just for testing purposes
+const int coldparameter = 20; //just set for testingpurposes 
 void setup() {
 pinMode(2, INPUT); //digit pin for assigned to the sensor
 pinMode(4, OUTPUT); //blueled
@@ -24,19 +24,19 @@ Serial.print(" The Current Temperature is: ");
 
 
 Serial.print(sensors.getTempCByIndex(0));
-if (sensors.getTempCByIndex(0) < cold) { //condition for cold
+if (sensors.getTempCByIndex(0) < coldparameter) { //condition for cold
 digitalWrite(4, HIGH);
 digitalWrite(8, LOW);
 digitalWrite(12, LOW);
 Serial.println(" the water is cold ");
 }
-else if (sensors.getTempCByIndex(0) >= hot) { //condition for hot
+else if (sensors.getTempCByIndex(0) >= hotparameter) { //condition for hot
 digitalWrite(4, LOW);
 digitalWrite(8, LOW);
 digitalWrite(12, HIGH);
 Serial.println(" the water is hot.");
 }
-else if ( sensors.getTempCByIndex(0) >cold && sensors.getTempCByIndex(0)< hot){ //fine
+else if ( sensors.getTempCByIndex(0) >coldparameter && sensors.getTempCByIndex(0)< hotparameter){ //fine
 digitalWrite(4, LOW);
 digitalWrite(8, HIGH);
 digitalWrite(12, LOW);

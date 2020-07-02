@@ -48,5 +48,5 @@ Before running the code make sure that you have the below mentioned libraries in
  
  # Schematic 
  
- <img src = "https://user-images.githubusercontent.com/36547662/86257705-383c2b80-bbba-11ea-8aa5-8ac0e05a3818.png" width = "400" height= "340">
+ <img src = "https://user-images.githubusercontent.com/36547662/86257705-383c2b80-bbba-11ea-8aa5-8ac0e05a3818.png" width = "660" height= "470">
 

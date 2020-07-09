@@ -1,0 +1,6 @@
+In the image above , The three patches of conductive fabric that are enclosed in the red marked area are used to connect the three LEDs to the Arduino board with
+the use of 3 individual resistors and the other long patch of conductive fabric is used to connect the LEDs to ground. 
+
+As the temperature sensor I have used is a one-wire temperature sensor, it consists of three wires. the yellow one is the data wire which has to be connected to the 
+digital pin via one end of a resistor and the other end of a resistor has to be connected to the 5 volts of the temperature sensor which has to be connected to 5 volts
+pin on the Arduino. and the third wire (ground) has to connected to the ground pin on the Arduino board.

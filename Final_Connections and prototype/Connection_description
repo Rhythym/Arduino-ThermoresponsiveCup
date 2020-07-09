@@ -1,4 +1,4 @@
-In this image
+In this image <img src = "https://user-images.githubusercontent.com/36547662/86252274-4a669b80-bbb3-11ea-81da-6a2a19244d5c.png" width="250" height="200">
  , The three patches of conductive fabric that are enclosed in the red marked area are used to connect the three LEDs to the Arduino board with
 the use of 3 individual resistors and the other long patch of conductive fabric is used to connect the LEDs to ground. 
 
